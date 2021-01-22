@@ -2,7 +2,7 @@
 Project based on KL05Z
 
 Program realizowany jako terminal nadawczo - odbiorczy
-Za pomocą pojedyńczego przycisku użytkownik kodem Morse'a nadaje konkretną literę, która następnie zostaje przedstawiona na pierwszym rzędzie wyświetlacza LCD a jednocześnie wysłana do drugiego terminala.
+Za pomocą pojedyńczego przycisku użytkownik kodem Morse'a nadaje konkretną literę, która następnie zostaje przedstawiona na pierwszym rzędzie wyświetlacza LCD a jednocześnie wysłana do drugiego terminala. Jednocześnie do układu mogą zostać oderbane dane wysłanego z drugiego terminala
 
 # W programie zrealizowano następujące funkcje:
 1) Brak delay-i blokujących program
@@ -28,7 +28,7 @@ Użytkownik może w dowolnym momencie (nawet przy nadawaniu) zmienić prędkoś�
 
 # Diagram przejść kodu Morse'a
 <p align="center">
-  <img src="morse_chart.jpg" width="800" title="hover text">
+  <img src="img/morse_chart.jpg" width="800" title="hover text">
 </p>
 
 # Autorzy:
