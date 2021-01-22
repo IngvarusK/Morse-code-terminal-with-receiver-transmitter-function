@@ -1,7 +1,7 @@
 # Morse-code-terminal-with-receiver-transmitter-function
 Project based on KL05Z
 
-Program realizowany jako terminal nadawczo - odbiorczy
+Program realizowany jako terminal nadawczo - odbiorczy.
 Za pomocą pojedyńczego przycisku użytkownik kodem Morse'a nadaje konkretną literę, która następnie zostaje przedstawiona na pierwszym rzędzie wyświetlacza LCD a jednocześnie wysłana do drugiego terminala. Jednocześnie do układu mogą zostać oderbane dane wysłanego z drugiego terminala
 
 Prezentacja działania: Youtube
