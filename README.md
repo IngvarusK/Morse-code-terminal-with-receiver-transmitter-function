@@ -27,8 +27,7 @@ Użytkownik może w dowolnym momencie (nawet przy nadawaniu) zmienić prędkoś�
 
 # Diagram przejść kodu Morse'a
 <p align="center">
-  <img src="morse_chart.jpg" width="350" title="hover text">
-  <img src="morse_chart.jpg" width="350" alt="accessibility text">
+  <img src="morse_chart.jpg" width="800" title="hover text">
 </p>
 
 # Autorzy:
