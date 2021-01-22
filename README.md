@@ -4,6 +4,12 @@ Project based on KL05Z
 Program realizowany jako terminal nadawczo - odbiorczy
 Za pomocą pojedyńczego przycisku użytkownik kodem Morse'a nadaje konkretną literę, która następnie zostaje przedstawiona na pierwszym rzędzie wyświetlacza LCD a jednocześnie wysłana do drugiego terminala. Jednocześnie do układu mogą zostać oderbane dane wysłanego z drugiego terminala
 
+Prezentacja działania: Youtube
+
+Końcowa kompilacja
+Program Size: Code=3928 RO-data=420 RW-data=8 ZI-data=360  
+".\Objects\Project_Morse.axf" - 0 Error(s), 0 Warning(s).
+
 # W programie zrealizowano następujące funkcje:
 1) Brak delay-i blokujących program
 2) Programowa obsługa drgań styków z możliwością dodania dodatkowych klawiszy (uniwersalność) - należy ustawić odpowiednio pin, dodać strukturę, dodać w pętli głównej funkcje obsługującą konkretny przycisk - wykorzystano PIT
