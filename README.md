@@ -4,7 +4,7 @@ Project based on KL05Z
 Program realizowany jako terminal nadawczo - odbiorczy.
 Za pomocą pojedyńczego przycisku użytkownik kodem Morse'a nadaje konkretną literę, która następnie zostaje przedstawiona na pierwszym rzędzie wyświetlacza LCD a jednocześnie wysłana do drugiego terminala. Jednocześnie do układu mogą zostać oderbane dane wysłanego z drugiego terminala
 
-Prezentacja działania: Youtube
+Prezentacja działania: https://youtu.be/bLfkz5ub2K4
 
 Końcowa kompilacja
 Program Size: Code=3928 RO-data=420 RW-data=8 ZI-data=360  
