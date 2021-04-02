@@ -3,7 +3,7 @@ Project based on KL05Z
 
 Using single button user codes specific letter, which is displayed on LCD screen and then send to the second terminal. The system can collect data from the other terminal simultaneously.
 
-Working demonstration: https://youtu.be/bLfkz5ub2K4
+Working demonstration (pl): https://youtu.be/bLfkz5ub2K4
 
 Final compilation
 Program Size: Code=3928 RO-data=420 RW-data=8 ZI-data=360  
