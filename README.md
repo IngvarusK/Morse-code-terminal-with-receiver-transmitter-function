@@ -1,4 +1,4 @@
-# Morse-code-terminal-with-receiver-transmitter-function
+# Morse code terminal with receiver transmitter function
 Project based on KL05Z
 
 Using single button user codes specific letter, which is displayed on LCD screen and then send to the second terminal. The system can collect data from the other terminal simultaneously.
