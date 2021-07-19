@@ -1,7 +1,6 @@
 # Morse code terminal with receiver transmitter function
 **Introduction** <br />
-This is final project in TMP2 (Microprocessor Technology 2).
-Using single button user codes specific letter, which is displayed on LCD screen and then send to the second terminal. The system can collect data from the other terminal simultaneously.
+This is final project in TMP2 (Microprocessor Technology 2). Using single button user codes specific letter, which is displayed on LCD screen and then send to the second terminal. The system can collect data from the other terminal simultaneously.
 Project based on KL05Z
 
 Working demonstration (pl): https://youtu.be/bLfkz5ub2K4
